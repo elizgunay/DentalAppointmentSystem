@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bf1ee16-bbe7-434a-b353-3efb620a9a95" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/controllers/EditController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/controllers/ReservationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/models/Appointment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/models/Dentist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/models/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/models/Receptionist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/models/Schedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/DentalDiagram.mdj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uni/pu/fmi/CucumberStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uni/pu/fmi/PicoModelContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uni/pu/fmi/edit/EditSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uni/pu/fmi/edit/models/EditPageModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uni/pu/fmi/reservation/ReservationSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uni/pu/fmi/reservation/models/ReservationPageModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/uni.pu.fmi/EditReservation.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/uni.pu.fmi/Reservation.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2PbijDLKQTerjrdLsa1RB0oMJ8x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "C:/Users/My Asus/Desktop/Online System for booking an appointment/DentalAppointmentSystem/src/test/java",
+    "last_opened_file_path": "C:/Users/My Asus/Desktop/Online System for booking an appointment/DentalAppointmentSystem",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\My Asus\Desktop\Online System for booking an appointment\DentalAppointmentSystem\src\main\resources" />
+      <recent name="C:\Users\My Asus\Desktop\Online System for booking an appointment\DentalAppointmentSystem\src\main\java\uni\pu\fmi\models" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="uni.pu.fmi.controllers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CucumberStarter">
+    <configuration name="CucumberStarter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DentalAppointmentSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uni.pu.fmi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uni.pu.fmi" />
+      <option name="MAIN_CLASS_NAME" value="uni.pu.fmi.CucumberStarter" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EditController.testEditBlankTreatment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DentalAppointmentSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uni.pu.fmi.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uni.pu.fmi.controllers" />
+      <option name="MAIN_CLASS_NAME" value="uni.pu.fmi.controllers.EditController" />
+      <option name="METHOD_NAME" value="testEditBlankTreatment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EditController.testEditInvalidName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DentalAppointmentSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uni.pu.fmi.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uni.pu.fmi.controllers" />
+      <option name="MAIN_CLASS_NAME" value="uni.pu.fmi.controllers.EditController" />
+      <option name="METHOD_NAME" value="testEditInvalidName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EditController.testEditTimeNotAvailable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DentalAppointmentSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uni.pu.fmi.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uni.pu.fmi.controllers" />
+      <option name="MAIN_CLASS_NAME" value="uni.pu.fmi.controllers.EditController" />
+      <option name="METHOD_NAME" value="testEditTimeNotAvailable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EditController.testEditValidInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DentalAppointmentSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uni.pu.fmi.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uni.pu.fmi.controllers" />
+      <option name="MAIN_CLASS_NAME" value="uni.pu.fmi.controllers.EditController" />
+      <option name="METHOD_NAME" value="testEditValidInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CucumberStarter" />
+        <item itemvalue="JUnit.EditController.testEditValidInput" />
+        <item itemvalue="JUnit.EditController.testEditTimeNotAvailable" />
+        <item itemvalue="JUnit.EditController.testEditBlankTreatment" />
+        <item itemvalue="JUnit.EditController.testEditInvalidName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bf1ee16-bbe7-434a-b353-3efb620a9a95" name="Changes" comment="" />
+      <created>1683732316824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683732316824</updated>
+      <workItem from="1683732318066" duration="36792000" />
+      <workItem from="1683919494347" duration="11340000" />
+      <workItem from="1683970980698" duration="28638000" />
+      <workItem from="1684235672639" duration="4195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

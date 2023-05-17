@@ -4,31 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bf1ee16-bbe7-434a-b353-3efb620a9a95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/controllers/EditController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/controllers/ReservationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/models/Appointment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/models/Dentist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/models/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/models/Receptionist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/models/Schedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/DentalDiagram.mdj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/uni/pu/fmi/CucumberStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/uni/pu/fmi/PicoModelContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/uni/pu/fmi/edit/EditSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/uni/pu/fmi/edit/models/EditPageModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/uni/pu/fmi/reservation/ReservationSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/uni/pu/fmi/reservation/models/ReservationPageModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/uni.pu.fmi/EditReservation.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/uni.pu.fmi/Reservation.feature" afterDir="false" />
+    <list default="true" id="5bf1ee16-bbe7-434a-b353-3efb620a9a95" name="Changes" comment="Add project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/controllers/ReservationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/controllers/ReservationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/models/Appointment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uni/pu/fmi/models/Appointment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/DentalDiagram.mdj" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/DentalDiagram.mdj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +38,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_directory_selection": "C:/Users/My Asus/Desktop/Online System for booking an appointment/DentalAppointmentSystem/src/test/java",
-    "last_opened_file_path": "C:/Users/My Asus/Desktop/Online System for booking an appointment/DentalAppointmentSystem",
+    "last_opened_file_path": "C:/Users/My Asus/Desktop/Online System for booking an appointment/DentalAppointmentSystem/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -178,8 +158,17 @@
       <workItem from="1683732318066" duration="36792000" />
       <workItem from="1683919494347" duration="11340000" />
       <workItem from="1683970980698" duration="28638000" />
-      <workItem from="1684235672639" duration="4195000" />
+      <workItem from="1684235672639" duration="7020000" />
+      <workItem from="1684308453746" duration="3378000" />
     </task>
+    <task id="LOCAL-00001" summary="Add project">
+      <created>1684240337978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684240337978</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +184,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

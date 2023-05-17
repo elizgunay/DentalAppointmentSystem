@@ -14,9 +14,6 @@ public class Appointment {
     public Appointment() {
     }
 
-    /**
-     * 
-     */
     private String date;
 
     private String time;
@@ -27,10 +24,6 @@ public class Appointment {
 
     private String treatment;
 
-    /**
-     * 
-     */
-    private Set<Patient> patients;
 
     /**
      * 
